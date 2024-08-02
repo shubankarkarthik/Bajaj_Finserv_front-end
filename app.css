@@ -1,0 +1,18 @@
+/* src/App.css */
+.App {
+    text-align: center;
+  }
+  
+  textarea {
+    width: 300px;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-bottom: 10px;
+  }
+  
+  select {
+    margin-bottom: 10px;
+  }
